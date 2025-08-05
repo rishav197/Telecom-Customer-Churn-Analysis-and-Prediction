@@ -21,9 +21,22 @@ To identify early indicators of churn, organizations need to develop a comprehen
 
 High customer churn in the telecom industry leading to revenue loss and increased customer acquisition costs.
 
+
+
 ## Objectives :
 
+- Identify the percentage of customers who have churned and those who continue using the service.
+
+- Analyze the dataset to understand key features that influence customer churn.
+
+- Develop and evaluate machine learning models to accurately classify churned and non-churned customers, and identify the most suitable model for prediction.
+
+
+
+
 ## Dataset :
+
+**Telco Customer Churn Data :** [Download Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
 ## Few glimpses of Exploratory Data Analysis :
 
