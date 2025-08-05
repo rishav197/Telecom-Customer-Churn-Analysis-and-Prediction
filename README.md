@@ -52,8 +52,14 @@ High customer churn in the telecom industry leading to revenue loss and increase
 ## Few glimpses of Exploratory Data Analysis :
 
 <!-- PLOTS -->
+### 1. Churn distribution(in %) :
 > ![Churn distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/churn-dist.jpg)
 > 26.5 % of customers left the company
+
+### 2. Distribution of features - 'tenure', 'MonthlyCharges', 'TotalCharges' :
+> ![tenure distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/tenure_distribution_boxplot.png)
+> ![MonthlyCharges distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/MonthlyCharges_distribution_boxplot.png)
+> ![TotalCharges distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/TotalCharges_distribution_boxplot.png)
 
 
 ## Machine Learning Model Evaluations and Predictions: 
