@@ -7,7 +7,7 @@
 
 ## Business Problem :
 
-**What is Customer Churn ?**
+### **What is Customer Churn ?**
 
 Customer churn refers to the phenomenon where customers or subscribers stop doing business with a company or discontinue using its services.
 
