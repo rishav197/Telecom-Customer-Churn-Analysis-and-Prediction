@@ -38,6 +38,17 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 **Telco Customer Churn Data :** [Download Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 
+**The data set includes information about :**
+
+- Customers who left within the last month – the column is called Churn (target column)
+
+- Services that each customer has signed up for – phone service, multiple lines, internet service, online security, online backup, device protection, tech support, and streaming services (TV and Movies)
+
+- Customer account information such as tenure(how long they’ve been a customer), Contract type, payment method, paperless billing, monthly charges, and total charges
+
+- Demographic info about customers such as gender, age range, and if they have partners and dependents
+
+
 ## Few glimpses of Exploratory Data Analysis :
 
 <!-- PLOTS -->
@@ -45,4 +56,15 @@ High customer churn in the telecom industry leading to revenue loss and increase
 ## Machine Learning Model Evaluations and Predictions: 
 
 
+
+
 ## Conclusion :
+In this project, we analyzed the Telco Customer Churn dataset to understand the factors influencing customer churn. We identified key features such as contract type, tenure, monthly charges, and services used as major contributors to churn.
+
+Using various machine learning models, we developed a predictive model to classify churned and non-churned customers. Among the tested models, [insert best model name] performed the best with an accuracy of [insert score] and helped us identify high-risk customers.
+
+This prediction model can assist telecom companies in targeting at-risk customers with retention strategies, ultimately reducing churn and improving customer satisfaction.
+
+In the future, the model can be improved further by incorporating more behavioral data or deploying it in real-time systems for proactive retention efforts.
+
+
