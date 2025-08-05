@@ -52,6 +52,9 @@ High customer churn in the telecom industry leading to revenue loss and increase
 ## Few glimpses of Exploratory Data Analysis :
 
 <!-- PLOTS -->
+<!-- > ![Churn distribution](image_url)
+> 26.5 % of customers left the company -->
+
 
 ## Machine Learning Model Evaluations and Predictions: 
 
