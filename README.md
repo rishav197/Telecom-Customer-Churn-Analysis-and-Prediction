@@ -129,6 +129,7 @@ This supports the finding that newer customers with low tenure tend to have a hi
     'MonthlyCharges': 64.45,
     'TotalCharges': 4720
 }
+>
 >![sample_input data](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/example_input.jpg)
 
 >sample_input2 = {
@@ -152,7 +153,8 @@ This supports the finding that newer customers with low tenure tend to have a hi
     'MonthlyCharges': 104.8,
     'TotalCharges': 3046.05
 }
->![sample_input2 data]()
+>
+>![sample_input2 data](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/example_input2.jpg)
 
 
 ## Conclusion :
