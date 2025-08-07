@@ -129,7 +129,7 @@ This supports the finding that newer customers with low tenure tend to have a hi
     'MonthlyCharges': 64.45,
     'TotalCharges': 4720
 }
->![sample_input data]()
+>![sample_input data](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/example_input.jpg)
 
 >sample_input2 = {
     'gender': 'Female',
@@ -163,4 +163,3 @@ Using various machine learning models, we developed a predictive model to classi
 This prediction model can assist telecom companies in targeting at-risk customers with retention strategies, ultimately reducing churn and improving customer satisfaction.
 
 In the future, the model can be improved further by incorporating more behavioral data or deploying it in real-time systems for proactive retention efforts.
-
