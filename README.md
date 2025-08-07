@@ -107,6 +107,7 @@ This supports the finding that newer customers with low tenure tend to have a hi
 >![Model Performance](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/models_performance.jpg)
 > XGBoost is the best overall performer, with strong F1 score, high Recall, and highest Accuracy (tied with RF).
 
+
 ## Conclusion :
 In this project, we analyzed the Telco Customer Churn dataset to understand the factors influencing customer churn. We identified key features such as contract type, tenure, monthly charges, and services used as major contributors to churn.
 
