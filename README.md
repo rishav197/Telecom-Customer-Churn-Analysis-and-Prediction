@@ -58,6 +58,8 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 
 ### 2. gender distribution by churn:
+> ![gender dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/gender_distribution_plot.png)
+> interpret
 
 <!-- ### 3. Customer Contract distribution:
 ### 4. Payment Methods:
