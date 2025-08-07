@@ -63,6 +63,7 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 ### 3. Customer Contract :
 > ![contract dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/Contract_distribution_plot.png)
+>Customers with Month-to-Month contracts show a significantly higher churn rate, with approximately 52% choosing to leave the service as compared to 11% of customers with One Year Contract and 2% with Two Year Contract. This indicates that short-term contracts are strongly associated with a higher likelihood of customers leaving, likely due to the flexibility they offer for switching providers.
 
 ### 4. Payment Methods:
 > ![Payment method dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/PaymentMethod_distribution_plot.png)
