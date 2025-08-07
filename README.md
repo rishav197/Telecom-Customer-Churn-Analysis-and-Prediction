@@ -54,10 +54,10 @@ High customer churn in the telecom industry leading to revenue loss and increase
 <!-- PLOTS -->
 ### 1. Churn distribution(in %) :
 > ![Churn distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/churn-dist.jpg)
-> 26.5 % of customers left the company
+> 26.5% of customers left the company
 
 
-### 2. Churn distribution with respect to gender:
+### 2. gender distribution by churn:
 
 <!-- ### 3. Customer Contract distribution:
 ### 4. Payment Methods:
