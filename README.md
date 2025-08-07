@@ -76,12 +76,15 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 ### 6. Dependent distribution:
 > ![Dependent dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/Dependents_distribution_plot.png)
+> Customers without dependents are more likely to churn.
 
 ### 7. Online Security:
 > ![Online Security dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/OnlineSecurity_distribution_plot.png)
+> As shown in the plot, customers without online security are more likely to churn, suggesting that the lack of this feature may contribute to their decision to leave.
 
 ### 8. Senior Citizen:
 > ![Senior dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/SeniorCitizen_distribution_plot.png)
+> Although senior citizens make up a small portion of the overall customer base, they have a higher churn rate compared to other age groups.
 
 ### 9. Paperless Billing:
 > ![Paperless Billing dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/PaperlessBilling_distribution_plot.png)
