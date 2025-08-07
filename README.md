@@ -96,16 +96,11 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 
 ### 11. Distribution w.r.t Charges and Tenure:
+>![MonthlyCharges distribution]()
 
-<!-- 
+>![TotalCharges distribution]()
 
-> ![tenure distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/tenure_distribution_boxplot.png)
-> no. of customers are consistent for across tenure btw 15-65.
-> ![MonthlyCharges distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/MonthlyCharges_distribution_boxplot.png)
-> ![TotalCharges distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/TotalCharges_distribution_boxplot.png)
-> Most customers have low to moderate total charges, only few customers have high total charges. 
-> tenure, MonthlyCharges, and TotalCharges has no outliers.
- -->
+>![tenure distribution]()
 
 
 ## Machine Learning Model Evaluations and Predictions: 
