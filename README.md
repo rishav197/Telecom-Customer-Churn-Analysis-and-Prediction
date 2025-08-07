@@ -108,10 +108,51 @@ This supports the finding that newer customers with low tenure tend to have a hi
 > XGBoost is the best overall performer, with strong F1 score, high Recall, and highest Accuracy (tied with RF).
 
 ### Predictions
->![Sample_input data]()
+>sample_input = {
+    'gender': 'Male',
+    'SeniorCitizen': 0,
+    'Partner': 'Yes',
+    'Dependents': 'Yes',
+    'tenure': 72,
+    'PhoneService': 'Yes',
+    'MultipleLines': 'Yes',
+    'InternetService': 'DSL',
+    'OnlineSecurity': 'Yes',
+    'OnlineBackup': 'Yes',
+    'DeviceProtection': 'Yes',
+    'TechSupport': 'No',
+    'StreamingTV': 'No',
+    'StreamingMovies': 'No',
+    'Contract': 'Two year',
+    'PaperlessBilling': 'No',
+    'PaymentMethod': 'Credit card (automatic)',
+    'MonthlyCharges': 64.45,
+    'TotalCharges': 4720
+}
+>![sample_input data]()
 
-
->![Sample_input2 data]()
+>sample_input2 = {
+    'gender': 'Female',
+    'SeniorCitizen': 0,
+    'Partner': 'Yes',
+    'Dependents': 'No',
+    'tenure': 28,
+    'PhoneService': 'Yes',
+    'MultipleLines': 'Yes',
+    'InternetService': 'Fiber optic',
+    'OnlineSecurity': 'No',
+    'OnlineBackup': 'No',
+    'DeviceProtection': 'Yes',
+    'TechSupport': 'Yes',
+    'StreamingTV': 'Yes',
+    'StreamingMovies': 'Yes',
+    'Contract': 'Month-to-month',
+    'PaperlessBilling': 'Yes',
+    'PaymentMethod': 'Electronic check',
+    'MonthlyCharges': 104.8,
+    'TotalCharges': 3046.05
+}
+>![sample_input2 data]()
 
 
 ## Conclusion :
