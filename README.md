@@ -61,7 +61,7 @@ High customer churn in the telecom industry leading to revenue loss and increase
 > ![gender dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/gender_distribution_plot.png)
 > There is a negligible difference in churn rates between male and female customers. This suggests that gender does not significantly influence a customer’s decision to leave the telecom company. Both genders exhibit similar behavior when it comes to switching to a different service provider.
 
-### 3. Customer Contract distribution by churn :
+### 3. Customer Contract :
 > ![contract dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/Contract_distribution_plot.png)
 
 ### 4. Payment Methods:
@@ -72,24 +72,25 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 
 ### 6. Dependent distribution:
-> ![Internet services dist]()
+> ![Dependent dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/Dependents_distribution_plot.png)
 
 ### 7. Online Security:
-> ![Internet services dist]()
+> ![Online Security dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/OnlineSecurity_distribution_plot.png)
 
 ### 8. Senior Citizen:
-> ![Internet services dist]()
+> ![Senior dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/SeniorCitizen_distribution_plot.png)
 
 ### 9. Paperless Billing:
-> ![Internet services dist]()
+> ![Paperless Billing dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/PaperlessBilling_distribution_plot.png)
 
 ### 10. Tech support:
-> ![Internet services dist]()
+> ![Tech support dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/TechSupport_distribution_plot.png)
 
+
+### 11. Distribution w.r.t Charges and Tenure:
 
 <!-- 
 
-### 11. Distribution w.r.t Charges and Tenure:
 > ![tenure distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/tenure_distribution_boxplot.png)
 > no. of customers are consistent for across tenure btw 15-65.
 > ![MonthlyCharges distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/MonthlyCharges_distribution_boxplot.png)
