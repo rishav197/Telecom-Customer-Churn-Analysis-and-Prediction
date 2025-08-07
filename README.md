@@ -97,10 +97,10 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 ### 11. Distribution w.r.t Charges and Tenure:
 >![MonthlyCharges distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/MonthlyCharges_by_churn.png)
-
 >![TotalCharges distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/TotalCharges_by_churn.png)
-
 >![tenure distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/tenure_by_churn.png)
+> Customers with higher Monthly Charges are more likely to churn, particularly those who are new to the service. On the other hand, customers with higher Total Charges which typically indicates a longer relationship are less likely to churn.
+This supports the finding that newer customers with low tenure tend to have a higher churn rate compared to long-term customers.
 
 
 ## Machine Learning Model Evaluations and Predictions: 
