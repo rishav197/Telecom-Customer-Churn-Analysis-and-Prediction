@@ -88,9 +88,11 @@ High customer churn in the telecom industry leading to revenue loss and increase
 
 ### 9. Paperless Billing:
 > ![Paperless Billing dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/PaperlessBilling_distribution_plot.png)
+>Customers who use Paperless Billing are more likely to churn compared to those who don’t.
 
 ### 10. Tech support:
 > ![Tech support dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/TechSupport_distribution_plot.png)
+>As shown in the Plot, customers without Tech Support are more likely to switch to another service provider.
 
 
 ### 11. Distribution w.r.t Charges and Tenure:
