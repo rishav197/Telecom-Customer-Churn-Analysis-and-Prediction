@@ -64,15 +64,31 @@ High customer churn in the telecom industry leading to revenue loss and increase
 ### 3. Customer Contract distribution by churn :
 > ![contract dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/Contract_distribution_plot.png)
 
+### 4. Payment Methods:
+> ![Payment method dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/PaymentMethod_distribution_plot.png)
+
+### 5. Internet services:
+> ![Internet services dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/InternetService_distribution_plot.png)
+
+
+### 6. Dependent distribution:
+> ![Internet services dist]()
+
+### 7. Online Security:
+> ![Internet services dist]()
+
+### 8. Senior Citizen:
+> ![Internet services dist]()
+
+### 9. Paperless Billing:
+> ![Internet services dist]()
+
+### 10. Tech support:
+> ![Internet services dist]()
+
 
 <!-- 
-### 4. Payment Methods:
-### 5. Internet services:
-### 6. Dependent distribution:
-### 7. Online Security:
-### 8. Senior Citizen:
-### 9. Paperless Billing:
-### 10. Tech support:
+
 ### 11. Distribution w.r.t Charges and Tenure:
 > ![tenure distribution](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/tenure_distribution_boxplot.png)
 > no. of customers are consistent for across tenure btw 15-65.
