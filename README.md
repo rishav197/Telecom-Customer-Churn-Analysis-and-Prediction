@@ -117,4 +117,3 @@ This prediction model can assist telecom companies in targeting at-risk customer
 
 In the future, the model can be improved further by incorporating more behavioral data or deploying it in real-time systems for proactive retention efforts.
 
-
