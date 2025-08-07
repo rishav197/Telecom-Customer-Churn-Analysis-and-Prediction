@@ -61,7 +61,8 @@ High customer churn in the telecom industry leading to revenue loss and increase
 > ![gender dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/gender_distribution_plot.png)
 > There is a negligible difference in churn rates between male and female customers. This suggests that gender does not significantly influence a customer’s decision to leave the telecom company. Both genders exhibit similar behavior when it comes to switching to a different service provider.
 
-### 3. Customer Contract distribution:
+### 3. Customer Contract distribution by churn :
+> ![contract dist](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/Contract_distribution_plot.png)
 
 
 <!-- 
