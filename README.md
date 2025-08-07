@@ -158,10 +158,5 @@ This supports the finding that newer customers with low tenure tend to have a hi
 
 
 ## Conclusion :
-In this project, we analyzed the Telco Customer Churn dataset to understand the factors influencing customer churn. We identified key features such as contract type, tenure, monthly charges, and services used as major contributors to churn.
-
-Using various machine learning models, we developed a predictive model to classify churned and non-churned customers. Among the tested models, [insert best model name] performed the best with an accuracy of [insert score] and helped us identify high-risk customers.
-
-This prediction model can assist telecom companies in targeting at-risk customers with retention strategies, ultimately reducing churn and improving customer satisfaction.
-
-In the future, the model can be improved further by incorporating more behavioral data or deploying it in real-time systems for proactive retention efforts.
+In conclusion, we analyzed the Telco Customer Churn dataset to understand the factors influencing customer churn. We identified key features such as contract type, tenure, monthly charges, and services used as major contributors to churn.
+Using various machine learning models, we developed a predictive model to classify churned and non-churned customers. Among the tested models, XGBoost performed the best with an accuracy of 77% and helped us identify high-risk customers. This prediction model can assist telecom companies in targeting at-risk customers with retention strategies, ultimately reducing churn and improving customer satisfaction.
