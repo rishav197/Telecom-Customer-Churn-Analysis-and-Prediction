@@ -3,14 +3,14 @@ import pandas as pd
 import pickle
 
 # Load model, encoders, and scaler
-with open('best_model.pkl', 'rb') as model_file:
+with open('best_model2.pkl', 'rb') as model_file:
     loaded_model = pickle.load(model_file)
 with open('encoder.pkl', 'rb') as encoders_file:
     encoders = pickle.load(encoders_file)
 with open('scaler.pkl', 'rb') as scaler_file:
     scaler_data = pickle.load(scaler_file)
 
-# ------------------------------------------------------------
+# -----------------------------------------------------------
 app = Flask(__name__)
 
 def make_prediction(input_data):
