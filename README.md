@@ -104,6 +104,7 @@ This supports the finding that newer customers with low tenure tend to have a hi
 
 
 ## Machine Learning Model Evaluations and Predictions: 
+>![Model Performance](https://github.com/rishav197/Telecom-Customer-Churn-Analysis-and-Prediction/blob/main/plots-and-images/models_performance.jpg)
 
 
 ## Conclusion :
